@@ -1,4 +1,4 @@
-export default {
+module.exports = {
   "id": "@hxGxqPrplLjRG2vtjQL87abX4QKqeLgCwQpS730nNwE=.ed25519",
   "profile": {
     "id": "@hxGxqPrplLjRG2vtjQL87abX4QKqeLgCwQpS730nNwE=.ed25519",

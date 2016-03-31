@@ -1,4 +1,4 @@
-export default {
+module.exports = {
   "names": {
     "@hxGxqPrplLjRG2vtjQL87abX4QKqeLgCwQpS730nNwE=.ed25519": "paul",
     "@f/6sQ6d2CMxRUhLpspgGIulDxDCwYD7DzFzPNr7u5AU=.ed25519": "cel",

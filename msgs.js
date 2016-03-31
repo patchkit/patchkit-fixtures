@@ -1,4 +1,4 @@
-export const posts = [
+exports.posts = [
   {
     "key": "%hJm7px/NnP+4XuhLwfs49cvEexNhzWl/FUeDxs9sIcw=.sha256",
     "value": {
@@ -58,7 +58,7 @@ export const posts = [
     }
   }
 ]
-export const contacts = [
+exports.contacts = [
   {
     "key": "%XEefcZNqT5qeFKQOYD5DGJvrMMW9hLq0PM0Aq3hhyN0=.sha256",
     "value": {
