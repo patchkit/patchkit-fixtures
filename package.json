@@ -1,0 +1,21 @@
+{
+  "name": "patchkit-fixtures",
+  "version": "1.0.0",
+  "description": "Fixture data for Patchkit tests",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patchkit/patchkit-fixtures.git"
+  },
+  "author": "Paul Frazee <pfrazee@gmail.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/patchkit/patchkit-fixtures/issues"
+  },
+  "homepage": "https://github.com/patchkit/patchkit-fixtures#readme"
+}
